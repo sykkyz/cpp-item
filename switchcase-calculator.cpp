@@ -36,7 +36,6 @@ int main()
         default:
             cout << "Operator yang anda masukkan salah. \n" <<endl;
     }
-    
     cout << endl;
     cin.get();
     return 0;
